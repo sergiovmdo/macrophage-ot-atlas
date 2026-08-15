@@ -1,0 +1,5 @@
+"Monocytes" "Scavenging / C1q+ Macrophages"
+"Monocytes" "Resident / Quiescent Macrophages"
+"Monocytes" "Inflammatory Macrophages"
+"Monocytes" "Lipid-Stressed / Foam Cells"
+"Monocytes" "Fibrotic / Hypoxic Macrophages"
